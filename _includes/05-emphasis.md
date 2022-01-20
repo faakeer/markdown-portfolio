@@ -4,4 +4,4 @@
 * *bootstrap*
 * *jquery*
 
-* **react.js** ✨
+* **react.js** 
