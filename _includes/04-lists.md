@@ -1,0 +1,3 @@
+* Bread 🍞
+* Chicken 🍛
+* Milk 🥛
